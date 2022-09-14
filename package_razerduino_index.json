@@ -3,7 +3,7 @@
       {
         "name": "razerduino",
         "maintainer": "DarkMetalMouse",
-        "websiteURL": "https://github.com/DarkMetalMouse/razerduino",
+        "websiteURL": "https://github.com/Chrisvass/razerduino",
         "email": "",
         "platforms": [
           {
@@ -11,7 +11,7 @@
             "architecture": "avr",
             "version": "0.9.0",
             "category": "Contributed",
-            "url": "https://github.com/DarkMetalMouse/razerduino/blob/master/razerduino-0.9.0.zip?raw=true",
+            "url": "https://github.com/Chrisvass/razerduino/blob/master/razerduino-0.9.0.zip?raw=true",
             "archiveFileName": "razerduino-0.9.0.zip",
             "checksum": "SHA-256:85744dad5f19a142d8b74e441e4820ab64853b87be414fe4cc144bb7b131b802",
             "size": "6010904",
