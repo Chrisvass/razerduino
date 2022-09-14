@@ -1,13 +1,13 @@
 {
     "packages": [
       {
-        "name": "razerduino",
-        "maintainer": "DarkMetalMouse",
+        "name": "razerduino_test",
+        "maintainer": "DarkMetalMouse_edit",
         "websiteURL": "https://github.com/Chrisvass/razerduino",
         "email": "",
         "platforms": [
           {
-            "name": "razerduino",
+            "name": "razerduino_test1",
             "architecture": "avr",
             "version": "0.9.0",
             "category": "Contributed",
@@ -16,7 +16,7 @@
             "checksum": "SHA-256:DE9D4587F3DF5095AD23D7B7A9272D977423AAC6C55981A3F72B61ABFB16B1B2",
             "size": "5764864",
             "boards": [
-              {"name": "microrazer"}
+              {"name": "microrazer_test1"}
             ],
             "toolsDependencies": [
 
