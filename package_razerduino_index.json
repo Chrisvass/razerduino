@@ -13,8 +13,8 @@
             "category": "Contributed",
             "url": "https://github.com/Chrisvass/razerduino/blob/master/razerduino-0.9.0.zip?raw=true",
             "archiveFileName": "razerduino-0.9.0.zip",
-            "checksum": "SHA-256:85744dad5f19a142d8b74e441e4820ab64853b87be414fe4cc144bb7b131b802",
-            "size": "6010904",
+            "checksum": "SHA-256:DE9D4587F3DF5095AD23D7B7A9272D977423AAC6C55981A3F72B61ABFB16B1B2",
+            "size": "5764864",
             "boards": [
               {"name": "microrazer"}
             ],
